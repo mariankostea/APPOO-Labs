@@ -2,11 +2,11 @@
 
 #### Obiectivele
 - familiarizarea cu principiile OOP
-- analiza si proiectarea unui sistem. Diagrama de clase.
+- analiza si proiectarea unui sistem. Diagrama de clasă.
 
 **Sarcina**
 
-- Să se construiască diagrama de clase comform sistemului ales.
+- Să se construiască diagrama de clasă comform sistemului ales.
 - Să se scrie codul sursă somform diagramei
 
 **Remarcă**

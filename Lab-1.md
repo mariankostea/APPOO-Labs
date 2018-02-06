@@ -6,8 +6,8 @@
 
 **Sarcina**
 
-- Să se construiască diagrama de clasă comform sistemului ales.
-- Să se scrie codul sursă comform diagramei
+- Să se construiască diagrama de clasă conform sistemului ales.
+- Să se scrie codul sursă conform diagramei
 
 **Remarcă**
 

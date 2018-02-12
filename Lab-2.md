@@ -3,11 +3,11 @@
 #### Obiectivele
 - lucrul cu collectiile din Java
  
- Fiecare are de utilizat si lucrat cu colectiile. Se cere ca fiecare sa creeze o colectie, în care să adauge/ștearga/editeze 
+ Fiecare are de utilizat si de lucrat cu colecțiile. Se cere ca fiecare sa creeze o colectie, în care să adauge/ștearga/editeze 
  elementele In calitate de date poentru colectii se iau clasele de la Lab.1.
  Variantele conform numarului din registru. 
  
- **Fiecare trebuie sa știe în general despre colecții. Particular, diecare trebuie să știe destul de bine cum lucrează colecțiile din varinta sa.**
+ **Fiecare trebuie sa știe în general despre colecții. Particular, fiecare trebuie să știe destul de bine cum lucrează colecțiile din varinta sa.**
  
 1. ArrayBlockingQueue, LinkedHashSet
 1. ArrayDeque, LinkedHashMap

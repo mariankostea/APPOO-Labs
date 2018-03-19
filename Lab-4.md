@@ -7,6 +7,8 @@
  
 ## Sarcina
 
-- Pentru laboratorul 1, fiecare a ales o tema si a construit diagrama de clasa. Insa diagrama de clasa continea doar clasele model(asa numitele clase care contin date, nu contin logica). Acesta se considera data layer din aplicatia voastra. Pentru acest lab, o sa ne familiarizam cu inca 2 layere, DAO (Data Acces Object) layer si Service layer. 
+- Pentru laboratorul 1, fiecare a ales o tema si a construit diagrama de clasa. Insa diagrama de clasa continea doar clasele model(asa numitele clase care contin date, nu contin logica). Acesta se considera data layer din aplicatia voastra. In orice aplicatie, datele sunt pastrate undeva la nivel fizic, nu doar in memorie. O sa consideram ca mai departe utilizam o baza de date, care corespunde relational cu diagrama voastra de clasa. Adica, contine aceleasi tabele ca si clasele voastre, si aceleasi relatie intre tabele.  Pentru acest lab, o sa ne familiarizam cu inca 2 layere, DAO (Data Acces Object) layer si Service layer. 
 
+DAO: Este in general pentru logica de date. Contine metode de operatiune cu datele. Spre exemplu ar contine metode ca sa returneze datele conform careva criterii.
 
+Service: Contine nemijlocit bussiness logica. Spre exemplu careva logica asupra datelor extrase prin DAO layer.

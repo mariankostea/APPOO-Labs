@@ -12,3 +12,6 @@
 DAO: Este in general pentru logica de date. Contine metode de operatiune cu datele. Spre exemplu ar contine metode ca sa returneze datele conform careva criterii.
 
 Service: Contine nemijlocit business logica. Spre exemplu careva logica asupra datelor extrase prin DAO layer.
+
+Baza de date se alege de catre fiecare la dorință. Aceasta poate fi creata cu SQl scripturi , manual, nu e necesar de facut asta din Java. În java, trebuie de implementat aceste 2 layere, fiecare se gandeste, și adaugă câteva metode DAO și Service. În main, imi demonstrați comportamentul DAO și Service. (e.g. Scoateți careva date, le prelucrați cu metode din service, le faceți update înapoi în bază). Vă rog să vă gândiți bine la structura și metodele care le faceți, pe baza lor, urmatorul laborator o să fie diagramele de secvență și colaborare.
+

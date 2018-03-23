@@ -11,4 +11,4 @@
 
 DAO: Este in general pentru logica de date. Contine metode de operatiune cu datele. Spre exemplu ar contine metode ca sa returneze datele conform careva criterii.
 
-Service: Contine nemijlocit bussiness logica. Spre exemplu careva logica asupra datelor extrase prin DAO layer.
+Service: Contine nemijlocit business logica. Spre exemplu careva logica asupra datelor extrase prin DAO layer.

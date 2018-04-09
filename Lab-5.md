@@ -1,5 +1,5 @@
 
-## Lab-4 Modelarea sistemului. Diagrama de stare.
+## Lab-5 Modelarea sistemului. Diagrama de stare.
 
 #### Obiectivele
 - Modelarea sistemului si representarea diagramei de stare a obiectelor.

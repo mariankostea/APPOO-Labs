@@ -6,7 +6,7 @@
  
 ## Sarcina
 
-- Fiecare are de implementat 2 pattern-uri, conform listei de mai jos(varianta conform registrului, trebuie sa coincida cu cea de la Lab. 2) . Este obligatoriu fiecare sa stie pattern-ul sau, tipul, si un exemplu unde ar fi aplicabil (in linii genrale). Pentru implementare, puteti sa folositi si clase din sistemul vostru.
+- Fiecare are de implementat 2 pattern-uri, conform listei de mai jos(varianta conform registrului, trebuie sa coincida cu cea de la [Lab.2](https://github.com/mariankostea/APPOO-Labs/blob/master/Lab-2.md)). Este obligatoriu fiecare sa stie pattern-ul sau, tipul, si un exemplu unde ar fi aplicabil (in linii genrale). Pentru implementare, puteti sa folositi si clase din sistemul vostru.
 
 ###
 

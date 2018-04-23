@@ -30,7 +30,7 @@
 1.	Null Object	,	Abstract Factory
 1.	Facade	,	Factory Method
 1.	Builder	,	Template method
-1.	Proxy	,	Singleton
+1.	Proxy	,	Builder
 
 
 ## Referinte
